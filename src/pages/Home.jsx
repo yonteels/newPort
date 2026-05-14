@@ -2,6 +2,7 @@ import { FcAbout } from 'react-icons/fc'
 import Navbar from '../components/Navbar.jsx'
 import Main from './Main.jsx'
 import About from './About.jsx'
+import Project from './Project.jsx'
 
 function Home() {
     return (
@@ -14,6 +15,9 @@ function Home() {
         </div>
         <div id = "about">
             <About/>
+        </div>
+        <div id = "project">
+            <Project/>
         </div>
 
         </>

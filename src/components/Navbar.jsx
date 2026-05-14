@@ -9,9 +9,9 @@ function Navbar() {
             <div className="flex gap-6">
                 <a className="hover:font-bold" href="#home">Home</a>
                 <a className="hover:font-bold" href="#about">About</a>
-                <a className="hover:font-bold" href="/experience">Portfolio</a>
-                <a className="hover:font-bold" href="/project">Experience</a>
-                <a className="hover:font-bold" href="/contact">Contact</a>
+                <a className="hover:font-bold" href="#project">Project</a>
+                <a className="hover:font-bold" href="#experience">Experience</a>
+                <a className="hover:font-bold" href="#contact">Contact</a>
             </div>
 
         </nav>
